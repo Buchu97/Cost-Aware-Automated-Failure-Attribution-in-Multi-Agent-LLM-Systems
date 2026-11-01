@@ -1,0 +1,9 @@
+pair,cheap_only_tokens,strong_only_tokens,cascade_tokens
+llama-8b_to_llama-70b,1637977,1633754,2819078
+llama-8b_to_qwen-72b,1637977,1754662,2916820
+qwen-7b_to_llama-70b,1753097,1633754,3174237
+qwen-7b_to_qwen-72b,1753097,1754662,2979422
+llama-8b_to_gpt-5.6-sol,1637977,1663705,2828767
+qwen-7b_to_gpt-5.6-sol,1753097,1663705,3201071
+llama-8b_to_qwen-27b,1637977,1833787,3359385
+qwen-7b_to_qwen-27b,1753097,1833787,3339369
