@@ -1,0 +1,17 @@
+﻿pair,split,kept_cheap,cheap_correct_on_kept,strong_correct_on_kept,gained_correct_cases,lost_correct_cases,net_correct_difference
+llama-8b_to_llama-70b,validation,43,14,14,9,9,0
+llama-8b_to_llama-70b,test,32,9,9,3,3,0
+llama-8b_to_qwen-72b,validation,43,14,12,8,6,2
+llama-8b_to_qwen-72b,test,32,9,13,4,8,-4
+qwen-7b_to_llama-70b,validation,9,5,4,1,0,1
+qwen-7b_to_llama-70b,test,19,7,10,1,4,-3
+qwen-7b_to_qwen-72b,validation,32,9,10,4,5,-1
+qwen-7b_to_qwen-72b,test,28,7,9,1,3,-2
+llama-8b_to_gpt-5.6-sol,validation,43,14,16,5,7,-2
+llama-8b_to_gpt-5.6-sol,test,32,9,13,4,8,-4
+qwen-7b_to_gpt-5.6-sol,validation,9,5,5,2,2,0
+qwen-7b_to_gpt-5.6-sol,test,19,7,11,0,4,-4
+llama-8b_to_qwen-27b,validation,9,5,6,2,3,-1
+llama-8b_to_qwen-27b,test,7,0,2,0,2,-2
+qwen-7b_to_qwen-27b,validation,9,5,4,2,1,1
+qwen-7b_to_qwen-27b,test,19,7,12,0,5,-5

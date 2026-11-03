@@ -1,0 +1,7 @@
+﻿model,responses,invalid_responses,three_way_ties_all,three_way_ties_test,output_limit,responses_at_limit,at_limit_valid_attribution,stop_reason_recorded
+llama-8b,552,0,24,10,512,0,0,False
+qwen-7b,552,0,30,18,512,0,0,False
+llama-70b,552,1,36,14,512,1,1,False
+qwen-72b,552,3,15,7,512,0,0,False
+gpt-5.6-sol,552,0,4,3,16384,0,0,False
+qwen-27b,552,4,11,6,512,87,85,False
